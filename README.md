@@ -7,3 +7,5 @@ Testing:
 - inner cutouts and slots and with border radius of 0 and 0.8mm
 - outer edge cutouts with right angles, border radius of 0 and 0.8mm
 - large hole with diameter above the maximum drill size, which needs to be routed out by the fab house
+
+Here's my [blog post](https://arx.wtf/blog/1-front-panels-tips) about using PCBs to create front panels for your projects.
